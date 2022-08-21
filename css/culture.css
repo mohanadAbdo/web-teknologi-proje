@@ -1,0 +1,31 @@
+.janbia {
+  max-width: 1000px;
+  margin: 2em auto;
+}
+
+.janbia img {
+  margin: 0 auto 1em;
+  width: 300px;
+  height: 200px;
+}
+
+.type-img {
+  width: 400px;
+  height: 400px;
+}
+
+
+li figcaption {
+    max-width: 400px;
+}
+
+.type-list li {
+    margin: 1em;
+}
+
+.type-list {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
